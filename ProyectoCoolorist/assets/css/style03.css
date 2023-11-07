@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Roboto Light';
+    src: url(../fonts/Roboto-Light.ttf);
+}
+
+#primerParrafo{
+    font-family:'Roboto Light';
+    font-size: small;
+    color: #04146c;
+    font-size: 24pt;
+    text-align: start;
+    padding-top: 0px;
+}
+
+
+
+.parrafos{
+    display: flex;
+}
+
+

@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Coolvetica';
+    src: url("../fonts/coolvetica\ rg.ttf");
+}
+
+@font-face {
+    font-family: 'Roboto Light';
+    src: url("../fonts/Roboto-Light.ttf");
+}
+
+@font-face {
+    font-family: 'Roboto Regular';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+
+
+h1{
+   font-family: 'Coolvetica';
+   font-size: 90pt;
+   color: #0a2ff1;
+   text-align: center;
+}
+
+p{
+   font-family: 'Roboto Light';
+   font-size: 30pt;
+   color: #04146c;
+   text-align: center;
+}
+
+.boton01{
+    font-family: 'Roboto Regular';
+    font-size: 30pt;
+    background-color: #0a2ff1;
+    color: white;
+    border-radius: 3px;}
+
+    
+
+
+.primerBoton{
+    display: flex;
+    justify-content: center; 
+    
+}
+
+.boton02{
+
+    font-family: 'Roboto Regular';
+    font-size: 30pt;
+    background-color: white;
+    color: #04146c;
+    border-radius: 3px;
+}
+
+.segundoBoton{
+     display: flex;
+    justify-content: center; 
+}
+

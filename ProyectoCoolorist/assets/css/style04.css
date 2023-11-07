@@ -1,0 +1,169 @@
+@font-face {
+    font-family: 'Coolvetica Regular';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Light';
+    src: url(../fonts/Roboto-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Bold';
+    src: url(../fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Light Italic';
+    src: url(../fonts/Roboto-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Black';
+    src: url(../fonts/Roboto-Black.ttf);
+}
+
+
+h1{
+    font-family: 'Coolvetica Regular';
+    color: #0a2ff1;
+    font-size: 120px;
+    padding-left: 75px;
+}
+
+#parrafo01{
+    font-family: 'Roboto Light';
+    color: #04146c;
+    font-size: 30px;
+    padding-left: 75px;
+}
+
+
+#bold{
+    font-family: 'Roboto Bold';
+}
+
+.parrafos{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.containers{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container01{
+     background-color: #eff2ff;
+     width: 25%;
+     height: 25%;
+     padding: 1em;
+}
+
+.container02{
+    background-color: #eff2ff;
+     width: 25%;
+     height: 25%;
+     padding: 1em;
+     
+
+}
+
+.container03{
+    background-color: #eff2ff;
+    width: 25%;
+    height: 25%;
+    padding: 1em;
+
+}
+
+#estrellas{
+     width: 50px;
+    height: 50px;
+    display: flex;
+    margin-left: 20px;
+    box-sizing: border-box;
+}
+
+.estrella01{
+       width: 10px;
+       height: 10px;
+       margin-top: 26px;
+       margin-left: px;
+       
+}
+
+
+.estrella02{
+    width: 10px;
+    height: 10px;
+    margin-top: 26px;
+    margin-left: 24px;
+
+
+}
+
+
+.estrella03{
+    width: 10px;
+    height: 10px;
+    margin-top: 26px;
+    margin-left: 24px;
+
+    
+}
+
+
+.estrella04{
+    width: 10px;
+    height: 10px;
+    margin-top: 26px;
+    margin-left: 24px;
+}
+
+
+.estrella05{
+    width: 10px;
+    height: 10px;
+    margin-top: 26px;
+    margin-left: 24px;
+
+}
+
+#parrafo02{
+    font-family: 'Roboto Light Italic';
+    font-size: 18pt;
+    color: #04146c;
+}
+
+#parrafo03{
+    font-family: 'Roboto Black';
+    font-size: 18pt;
+    color: #04146c;
+
+}
+
+#parrafo04{
+    font-size: 18pt;
+}
+
+.contParrafos01{
+    margin-top: -10px;
+    margin-left: 20px;
+    word-wrap: break-word;
+
+
+}
+
+.contParrafos02{
+    margin-top: -10px;
+    margin-left: 20px;
+    word-wrap: break-word;
+}
+
+.contParrafos03{
+    margin-top: -10px;
+    margin-left: 20px;
+    word-wrap: break-word;
+}
+
